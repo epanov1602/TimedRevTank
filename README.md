@@ -1,6 +1,8 @@
-## How to deploy this to an FRC Robot with Rev motors
-Watch the video and follow the steps: https://www.youtube.com/embed/nkWzqCK14-w?si=YIUeM-sb81TNmLxP
+# How to deploy this to an FRC Robot with Rev motors
+Watch the video and follow the steps:
+https://www.youtube.com/embed/nkWzqCK14-w?si=YIUeM-sb81TNmLxP
 
+# Steps without the video
 * If you need to download PyCharm, download from here:
 https://www.jetbrains.com/pycharm/download/
 
