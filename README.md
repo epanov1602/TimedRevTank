@@ -1,4 +1,6 @@
 ## How to deploy this to an FRC Robot with Rev motors
+Watch the video and follow the steps: https://github.com/epanov1602/TimedRevTank/
+
 * If you need to download PyCharm, download from here:
 https://www.jetbrains.com/pycharm/download/
 
