@@ -29,5 +29,5 @@ https://www.jetbrains.com/pycharm/download/
 
 
 * Inside of the robot code you see four motors and their directions, you can change as you wish.
-But ultimately you can deploy this code to the robot (or run it in simulation):
+But ultimately you can `deploy` this code to the robot (or run it in `sim`), but before you are allowed to do it you must `sync`:
 ![image](https://github.com/user-attachments/assets/d151b3ad-96d4-410c-858a-3844e168bd1d)
